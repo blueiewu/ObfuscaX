@@ -54,8 +54,8 @@ graph TD
 
 ## Installation and Configuration
 ### Prerequisites
-- Python 3.8+ with virtual environment support
-- Kali Linux 2023.1+ or Windows 10/11 with WSL2
+- Python 3.13+ with virtual environment support
+- Kali Linux 2025 or Windows 10/11 with WSL2
 - Metasploit Framework 6.3+
 - Administrator privileges for payload testing
 
